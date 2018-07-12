@@ -8,7 +8,7 @@ attr_accessor :brand, :color, :size, :material, :condition
   end
 
 def cobble
-  puts "the shoe has been repaired."
+  puts "says that the shoe has been repaired."
 end
-
+  
 end
